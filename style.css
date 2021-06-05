@@ -1,0 +1,43 @@
+p {
+    color: cyan;
+}
+
+.first {
+    background-color: dodgerblue;
+    height: 18rem;
+    text-align: center;
+    width: 100%;
+}
+
+.second {
+    background-color: greenyellow;
+    height: 18rem;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+.one{
+    background-color: khaki;
+    height: 5rem;
+    color: lightgreen;
+    line-height: 5rem;
+
+}
+
+.two {
+    height: 12rem;
+    width: 80%;
+}
+
+.second .one {
+    color: lightskyblue;
+
+}
+
+.second p {
+    font-size: 0.8rem;
+    color: mediumblue;
+    
+}
